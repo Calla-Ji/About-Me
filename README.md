@@ -3,7 +3,7 @@
 
 - I’m currently working on [The ALANA Project](https://paragraph.com/@the-alana-project).
 
-- I’m learning **UE5 and vibe-coding**.
+- I’m learning **UE5 and more advanced vibe-coding**.
 
 - I’m looking to collaborate on **open-source & decentralized projects**.
 
