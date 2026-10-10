@@ -17,7 +17,7 @@
 
 - Don't ask me about coding or programming. While I know a bit, I am not passionate about line-coding.
 
-- How to reach me **contact[@]stellaachenbach.com**.
+- How to reach me: **contact[@]stellaachenbach.com**.
 
 - Learn about my experience by checking out my [LinkedIn](https://www.linkedin.com/in/stella-achenbach/).
 
